@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - [Github blog](https://js0303.github.io/)
 </br>
 
-#### 🛠️ Skills
+#### 💪🏻 Ability
 <div align=center>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JS0303&layout=compact)](https://github.com/JS0303/github-readme-stats) 
